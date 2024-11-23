@@ -10,3 +10,20 @@
     🧑‍💻 Devan C. M. Wijaya, S.Kom.
   </a>
 </h4>
+
+<br>
+
+## Documentation
+
+<div>
+<details>
+  <summary>Link-1</summary>
+  [ <a href="youtu.be/vZ-VNK88NYc">Arduino Pro Micro-based Traffic Light Mini</a> ]
+</details>
+</div>
+<div>
+<details>
+  <summary>Link-2</summary>
+  [ <a href="https://youtu.be/Za6JldqopiM">ESP32-Based Traffic Light With LED</a> ]
+</details>
+</div>
