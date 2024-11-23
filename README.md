@@ -6,8 +6,9 @@
 # Simple-Traffic-Light-Project
 
 <h4>
+  🧑‍💻 Creator:&nbsp;
   <a href="https://github.com/cakraawijaya">
-    🧑‍💻 Devan C. M. Wijaya, S.Kom.
+    Devan C. M. Wijaya, S.Kom.
   </a>
 </h4>
 
@@ -15,6 +16,6 @@
 
 ## Video Documentation
 
-&#10148; Link-1: <a href="youtu.be/vZ-VNK88NYc">Click Here</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&#10148; Link-2: <a href="https://youtu.be/Za6JldqopiM">Click Here</a>
+&#10148; Link-1:&nbsp; <a href="youtu.be/vZ-VNK88NYc">Click Here</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&#10148; Link-2:&nbsp; <a href="https://youtu.be/Za6JldqopiM">Click Here</a>
