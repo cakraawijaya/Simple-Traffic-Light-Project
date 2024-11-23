@@ -13,17 +13,8 @@
 
 <br>
 
-## Documentation
+## Video Documentation
 
-<div>
-<details>
-  <summary>Link-1</summary>
-  [ <a href="youtu.be/vZ-VNK88NYc">Arduino Pro Micro-based Traffic Light Mini</a> ]
-</details>
-</div>
-<div>
-<details>
-  <summary>Link-2</summary>
-  [ <a href="https://youtu.be/Za6JldqopiM">ESP32-Based Traffic Light With LED</a> ]
-</details>
-</div>
+&#10148; Link-1: <a href="youtu.be/vZ-VNK88NYc">Click Here</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+&#10148; Link-2: <a href="https://youtu.be/Za6JldqopiM">Click Here</a>
