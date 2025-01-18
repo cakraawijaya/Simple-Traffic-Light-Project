@@ -37,7 +37,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CP210X_USB_Driver
+   https://bit.ly/CP210X_USBdriver
    ```
 
    </td></tr></table>
