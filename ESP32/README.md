@@ -121,7 +121,25 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 
 7. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-8. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
+8. Some things you need to do when using the ``` ESP32 board ``` :
+
+    <table><tr><td width="810">
+       
+       • If ``` ESP32 board ``` cannot process ``` Source Code ``` totally -> Press ``` EN (RST) ``` button -> ``` Restart ```.
+
+       • If ```ESP32 board ``` cannot process ``` Source Code ``` automatically then :<br>
+
+      - When information: ``` Uploading... ``` has appeared -> immediately press and hold the ``` BOOT ``` button.<br>
+
+      - When information: ``` Writing at .... (%) ``` has appeared -> release the ``` BOOT ``` button.
+
+      • If message: ``` Done Uploading ``` has appeared -> ``` The previously entered program can already be operated ```.
+
+      • Do not press the ``` BOOT ``` and ``` EN ``` buttons at the same time as this may switch to ``` Upload Firmware ``` mode.
+
+    </td></tr></table><br>
+
+9. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
