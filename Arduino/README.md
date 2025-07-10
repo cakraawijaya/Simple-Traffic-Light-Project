@@ -87,7 +87,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
       </th></tr>
       <tr><td>
          
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Micro ```
+      Selecting a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Micro ```
 
       </td></tr>
    </table><br>
