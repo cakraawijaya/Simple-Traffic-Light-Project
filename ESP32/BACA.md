@@ -92,7 +92,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
       Cara mengatur board ``` DOIT ESP32 DEVKIT V1 ```
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="810">
 
       • Klik bagian ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp32 ```.
       
