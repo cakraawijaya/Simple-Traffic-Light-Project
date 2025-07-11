@@ -92,7 +92,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
       How to setup the ``` DOIT ESP32 DEVKIT V1 ``` board
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="810">
 
       • Click ``` Tools ``` section -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp32 ```.
 
