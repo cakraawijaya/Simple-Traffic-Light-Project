@@ -85,7 +85,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
       Cara mengatur board ``` Arduino Pro Micro ```
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Micro ```
 
