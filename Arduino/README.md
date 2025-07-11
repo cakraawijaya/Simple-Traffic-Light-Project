@@ -85,7 +85,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
       How to setup the ``` Arduino Pro Micro ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Micro ```
 
