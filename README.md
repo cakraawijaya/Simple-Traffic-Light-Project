@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Simple-Traffic-Light-Project?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-Arduino%20&%20ESP32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# Simple-Traffic-Light-Project
+# Simple Traffic Light Project
 
 <h4>
   🧑‍💻 Creator:&nbsp;
