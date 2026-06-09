@@ -13,7 +13,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CP210X USB Driver |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | • LED Merah (x1)<br>• LED Kuning (x1)<br>• LED Hijau (x1) |
