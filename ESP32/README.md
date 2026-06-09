@@ -13,7 +13,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 | Part | Description |
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CP210X USB Driver |
 | Programming Language | C/C++ |
 | Actuators | • Red LED (x1)<br>• Yellow LED (x1)<br>• Green LED (x1) |
