@@ -13,7 +13,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 | Part | Description |
 | --- | --- |
 | Development Board | Arduino Pro Micro Leonardo ATMEGA32U4 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CH340 USB Driver |
 | Programming Language | C/C++ |
 | Arduino Library | • Arduino (default)<br>• TM1637Display |
