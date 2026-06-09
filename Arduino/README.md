@@ -16,7 +16,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 | Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CH340 USB Driver |
 | Programming Language | C/C++ |
-| Arduino Library | • Arduino (default)<br>• TM1637Display |
+| Arduino Library | • Arduino (default)<br>• TM1637Display by Avishay Orpaz (Version: 1.2.0) |
 | Actuators | Traffic Light Module (x1) |
 | Display | TM1637: 4 Digit 7 Segment Module (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1)<br>• Adaptor DC 5V (x1) |
