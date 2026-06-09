@@ -13,7 +13,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Arduino Pro Micro Leonardo ATMEGA32U4 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CH340 USB Driver |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • Arduino (bawaan)<br>• TM1637Display |
