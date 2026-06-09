@@ -16,7 +16,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
 | Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CH340 USB Driver |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • Arduino (bawaan)<br>• TM1637Display |
+| Pustaka Arduino | • Arduino (bawaan)<br>• TM1637Display oleh Avishay Orpaz (Versi: 1.2.0) |
 | Aktuator | Modul Lampu Lalu Lintas (x1) |
 | Layar | TM1637: Modul 4 Digit 7 Bagian (x1) |
 | Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1)<br>• Adaptor DC 5V (x1) |
